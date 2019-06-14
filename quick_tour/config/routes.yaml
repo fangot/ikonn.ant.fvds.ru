@@ -1,7 +1,0 @@
-# index:
-#    path: /hello/{name}
-#    controller: 'App\Controller\DefaultController::index'
-
-success:
-  path: /task_success
-  controller: 'App\Controller\TaskController::success'
